@@ -1,0 +1,15 @@
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+H:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+H:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+H:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+F:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+F:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\Programming Logic\Projects\Lab2\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\Lab2.csprojResolveAssemblyReference.cache

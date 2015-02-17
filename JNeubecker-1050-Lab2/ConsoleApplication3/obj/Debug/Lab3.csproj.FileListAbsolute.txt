@@ -1,0 +1,8 @@
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Josh\Documents\Visual Studio 2012\Projects\JNeubecker-1050-Lab2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
