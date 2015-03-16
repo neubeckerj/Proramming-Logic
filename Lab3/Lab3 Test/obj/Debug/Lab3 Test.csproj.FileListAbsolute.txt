@@ -1,0 +1,12 @@
+F:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\bin\Debug\Lab3 Test.exe.config
+F:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\bin\Debug\Lab3 Test.exe
+F:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\bin\Debug\Lab3 Test.pdb
+F:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\obj\Debug\Lab3 Test.csprojResolveAssemblyReference.cache
+F:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\obj\Debug\Lab3 Test.exe
+F:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\obj\Debug\Lab3 Test.pdb
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\bin\Debug\Lab3 Test.exe.config
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\obj\Debug\Lab3 Test.exe
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\obj\Debug\Lab3 Test.pdb
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\bin\Debug\Lab3 Test.exe
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\bin\Debug\Lab3 Test.pdb
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\obj\Debug\Lab3 Test.csprojResolveAssemblyReference.cache

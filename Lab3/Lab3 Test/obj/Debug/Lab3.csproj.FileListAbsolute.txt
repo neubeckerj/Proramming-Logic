@@ -1,0 +1,3 @@
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\bin\Debug\Lab3 Test.exe.config
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\obj\Debug\Lab3 Test.exe
+H:\Programming Logic\Projects\Lab3\Lab3 Test\Lab3 Test\obj\Debug\Lab3 Test.pdb
