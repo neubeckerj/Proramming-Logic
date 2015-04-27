@@ -1,0 +1,7 @@
+\\VBOXSVR\VM_Share\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+B:\Documents\Visual Studio 2012\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+B:\Documents\Visual Studio 2012\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+B:\Documents\Visual Studio 2012\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+B:\Documents\Visual Studio 2012\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.csprojResolveAssemblyReference.cache
+B:\Documents\Visual Studio 2012\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+B:\Documents\Visual Studio 2012\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
